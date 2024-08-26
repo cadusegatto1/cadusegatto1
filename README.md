@@ -1,4 +1,4 @@
-<h2 align="left">- 👋 Hi, I’m @cadusegatto1<br>- 👀 I’m interested in Data Analytics and Engineer Analytics skills<br>- 🌱 I’m currently learning development Python scripts<br>- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cadusegatto/)<br>I'm always open to discussing new projects, opportunities, and collaborations.</h2>
+<h2 align="left">- 👋 Hi, I’m @cadusegatto1<br>- 👀 I’m interested in Data Analytics and Engineer Analytics skills<br>- 🌱 I’m currently learning development Python scripts<br>- 📫 Feel free to connect with me on LinkedIn<br>I'm always open to discussing new projects, opportunities, and collaborations.</h2>
 
 ###
 
